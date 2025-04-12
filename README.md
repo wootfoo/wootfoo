@@ -1,12 +1,15 @@
 # `design stuff. build stuff. test stuff. run stuff.`  
 ![controller-room-1500x500](https://github.com/user-attachments/assets/d67538d4-f44b-4a7e-b7d4-5598aebc7ed8)
 
+##  `stuff i stack`
+
+##  `stats stuff`
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=wootfoo&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wootfoo&show_icons=true&theme=tokyonight)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wootfoo&layout=compact&theme=cobalt&hide_border=true" />
-## `stuff i stack`
+
 
           
           
