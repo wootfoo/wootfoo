@@ -3,6 +3,8 @@
 
 ##  `stuff i stack`
 
+##  `stuff i run`
+
 ##  `stats stuff`
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=wootfoo&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
@@ -30,4 +32,5 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wootfoo&repo=wootfoo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+##  `stuff i dev to`
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tartunes)
