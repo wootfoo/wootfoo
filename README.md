@@ -82,15 +82,8 @@
 </table>
 
 ##  `stats stuff`
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=wootfoo&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wootfoo&show_icons=true&theme=tokyonight)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wootfoo&layout=compact&theme=cobalt&hide_border=true" />
-
-
-          
-          
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wootfoo&theme=cobalt)
+      
 <!--
 **dev2deploy/dev2deploy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -105,8 +98,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### `stats stuff (detailed)`
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=wootfoo&theme=ambient_gradient&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wootfoo&repo=wootfoo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wootfoo&show_icons=true&theme=ambient_gradient)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wootfoo&repo=wootfoo&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wootfoo&layout=compact&theme=ambient_gradient&hide_border=true" />    
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wootfoo&theme=aura&utcOffset=5)
 
 ##  `social stuff`
 <table>
@@ -128,6 +129,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-  
+
+ 
 ##  `streaming stuff`
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tartunes)
