@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### `stats stuff (detailed)`
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=wootfoo&theme=ambient_gradient&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wootfoo&theme=ambient_gradient" alt="wootfoo's GitHub Streak" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wootfoo&show_icons=true&theme=ambient_gradient)
 
